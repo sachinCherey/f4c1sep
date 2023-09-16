@@ -1,0 +1,21 @@
+#root{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    background: black;
+    box-sizing: content-box;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    border: solid black 3px;
+}
